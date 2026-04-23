@@ -366,7 +366,3 @@ CIS benchmarks are widely used in real-world environments for hardening Linux sy
 * Encrypt report data at rest
 * Create a proper UI with graphs and trends
 * Support multiple Linux distros (rpm/apk support)
-
----
-
-## 👨‍💻 Autho
