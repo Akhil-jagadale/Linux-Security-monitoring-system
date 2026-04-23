@@ -369,13 +369,4 @@ CIS benchmarks are widely used in real-world environments for hardening Linux sy
 
 ---
 
-## 👨‍💻 Author
-
-**Akhilesh Jagadale**
-
-GitHub: [https://github.com/Akhil-jagadale](https://github.com/Akhil-jagadale)
-LinkedIn: [https://www.linkedin.com/in/akhileshjagadale/](https://www.linkedin.com/in/akhileshjagadale/)
-
----
-If you want, I can also make a **more premium looking README** with badges (Python, AWS, Linux, CIS, DynamoDB), screenshots section, and demo GIF section.
-```
+## 👨‍💻 Autho
