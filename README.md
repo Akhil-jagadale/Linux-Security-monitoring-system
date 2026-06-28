@@ -1,6 +1,6 @@
-# 🛡️ Python Linux Security Monitoring System (CIS Compliance Agent)
+# 🛡️ Linux Security Monitoring System (CIS Compliance Agent)
 
-A lightweight Linux Security Monitoring Agent built in Python, designed to collect host metadata, installed package inventory, and run CIS Benchmark security checks on Ubuntu Linux systems.
+A lightweight Linux Security Monitoring Agent, designed to collect host metadata, installed package inventory, and run CIS Benchmark security checks on Ubuntu Linux systems.
 
 The agent sends security scan results to an AWS serverless backend using **API Gateway + Lambda + DynamoDB**, and the results are displayed on a modern HTML dashboard.
 
@@ -80,7 +80,7 @@ The agent sends security scan results to an AWS serverless backend using **API G
 
 ```
 
-python-security-monitoring-system/
+linux-security-monitoring-system/
 ├── agent/
 │   ├── main.py
 │   ├── collector/
