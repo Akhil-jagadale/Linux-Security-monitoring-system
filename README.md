@@ -25,10 +25,8 @@ The agent sends security scan results to an AWS serverless backend using **API G
 
 ┌───────────────────────────┐
 │     Linux Agent (Python)  │
-│ - Collect Host Info       │
-│ - Collect Packages        │
-│ - Run CIS Checks          │
-│ - Send JSON Report        │
+│ - Collect Host Info       │        
+│ - Run CIS Checks          │        
 └─────────────┬─────────────┘
               │ HTTPS POST /ingest
               ▼
