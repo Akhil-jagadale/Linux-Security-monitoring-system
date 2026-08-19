@@ -1,6 +1,6 @@
 # 🛡️ Linux Security Monitoring System (CIS Compliance Agent)
 
-A lightweight Linux Security Monitoring Agent, designed to collect host metadata, installed package inventory, and run CIS Benchmark security checks on Ubuntu Linux systems.
+A lightweight Linux Security Monitoring Agent, designed to collect host metadata, and run CIS Benchmark security checks on Ubuntu Linux systems.
 
 The agent sends security scan results to an AWS serverless backend using **API Gateway + Lambda + DynamoDB**, and the results are displayed on a modern HTML dashboard.
 
