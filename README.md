@@ -36,8 +36,7 @@ The agent sends security scan results to an AWS serverless backend using **API G
 └─────────────┬─────────────┘
               ▼
 ┌───────────────────────────┐
-│     Lambda Ingest API     │
-│ - Parse JSON report       │
+│     Lambda Ingest API     │      
 │ - Store into DynamoDB     │
 └─────────────┬─────────────┘
               ▼
